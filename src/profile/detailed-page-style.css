@@ -1,0 +1,44 @@
+.main-bg {
+    background-color: #f52a3b;
+    min-height: 100vh;
+    padding: 30px;
+}
+.profile-card {
+    background-color: #ffffff;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 16px;
+    width: 400px;
+
+}
+.birthday-heading {
+    background-image: linear-gradient(to right, #e6dfdf, #7ac3eb);
+    padding-top: 10px;
+    
+    height: 50px;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #242423;
+
+}
+.profile-image {
+    height: 45px;
+    width: 45px;
+    border-radius: 22px;
+}
+.profile-name {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+.profile-age {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500px;
+    margin-left: 10px;
+}
+
+
